@@ -1,0 +1,2 @@
+GitHub might be a bad idea for large video files. So, I may have git ignore media files in general. We should discuss and maybe keep
+the premiere project synced in GitHub, but attach the source media separately through Google Drive.
