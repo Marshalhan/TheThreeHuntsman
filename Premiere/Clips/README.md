@@ -1,2 +1,4 @@
-GitHub might be a bad idea for large video files. So, I may have git ignore media files in general. We should discuss and maybe keep
-the premiere project synced in GitHub, but attach the source media separately through Google Drive.
+GitHub might be a bad idea for large video files. So, I have git ignore large media files in general. 
+You will want to obtain the source clips and large video files from Discord.
+
+Smaller media formats like images are okay to use.
